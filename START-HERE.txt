@@ -1,0 +1,12 @@
+MADHU KUMAR PORTFOLIO
+
+To view your portfolio:
+1. Open this folder in File Explorer.
+2. Double-click index.html.
+
+The page will open in your web browser. Keep index.html, styles.css,
+script.js, and madhu-portrait.jpeg together in this folder.
+
+Your portrait is included. Its original background has not been removed yet,
+because the image editing tool needed for a clean transparent cutout was not
+available during setup.
